@@ -30,10 +30,7 @@
 |2015 - at the end of 2107|IT STEP Computer Academy in the “Software Development” direction|
 |2019 - ... at the present time| EPAM Test Automation (TAT22)|
 |2019 - ... at the present time| EPAM JavaScript Development Q1-2019|
-|8  |English level|
+|8  |*English level*|
 |   |I'm finished secondary school focused on *English*|
 |   |I'm reading books  |
-|8  |English level|
-|   |I'm finished secondary school focused on *English*|
-|   |I'm reading English books using vocabulary        |
-|   |English test show **Pre-Intermediate level**|
+
