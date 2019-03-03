@@ -1,10 +1,17 @@
-#  1. Igor Usmanov
-#  2. Contacts:
-##   2.1 Phone Contact:
-###      +375 44 566 45 61 (VELCOM)
+#  1. | Igor Usmanov
+----- | ------------
+#  2. | Contacts:
+##   2.1 | Phone Contact:
+###      +375 44 566 45 61 (VELCOM) 
 ##	 2.2 Social networks:
 ###      [VK link](https://vk.com/igralex1)
 ###		 [FACEBOOK link](https://www.facebook.com/igralex1)
+### 	 [TWITTER link](https://twitter.com/Igor53455141)
+###	     [LINKEDIN link](https://www.linkedin.com/in/igor-usmanov-5ab737114/)
+##   2.3 Mail:
+###      [igralex1@gmail.com](igralex1@gmail.com)
+##   2.4 Messangers:
+###      
 #  3. Summary (цель, пожелания, раскрыть, что важно, что хочется и почему. 
 Некий вариант самопрезентации. Когда опыта минимум, джун продает свой потенциал, 
 свое желание и способность быстро учиться. Не занимать позицию, что он придет, 
