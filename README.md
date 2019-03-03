@@ -33,4 +33,7 @@
 |8  |English level|
 |   |I'm finished secondary school focused on *English*|
 |   |I'm reading books  |
-8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
+|8  |English level|
+|   |I'm finished secondary school focused on *English*|
+|   |I'm reading English books using vocabulary        |
+|   |English test show **Pre-Intermediate level**|
