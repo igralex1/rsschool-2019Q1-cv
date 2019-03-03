@@ -1,10 +1,12 @@
-|#  1.        |# Igor Usmanov|
-|--- | ---|
-|# 2. |# Contacts: | 
+|Order number| Information|
+|------- | ------------------------|
+|  1.        | Igor Usmanov|
+
+| 2. | Contacts: | 
 ##|   2.1 | Phone Contact: |
 ###|     | +375 44 566 45 61 (VELCOM)| 
 ##|	 2.2 Social networks:
-###|      [VK link](https://vk.com/igralex1)
+###|      [# VK link](https://vk.com/igralex1)
 ###		 [FACEBOOK link](https://www.facebook.com/igralex1)
 ### 	 [TWITTER link](https://twitter.com/Igor53455141)
 ###	     [LINKEDIN link](https://www.linkedin.com/in/igor-usmanov-5ab737114/)
