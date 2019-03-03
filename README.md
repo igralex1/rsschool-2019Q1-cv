@@ -1,6 +1,6 @@
-#|  1.        | Igor Usmanov|
- |----------- | ------------|
-#| 2. | Contacts: | 
+|#  1.        |# Igor Usmanov|
+|--- | ---|
+|# 2. |# Contacts: | 
 ##|   2.1 | Phone Contact: |
 ###|     | +375 44 566 45 61 (VELCOM)| 
 ##|	 2.2 Social networks:
