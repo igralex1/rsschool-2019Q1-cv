@@ -1,0 +1,118 @@
+ main{
+     max-width: 1024px;
+     margin: 0 auto;
+     background: linear-gradient(269deg, rgba(183,183,183,1) 0%, rgba(200,200,200,1) 50%, rgba(173,173,173,1) 100%); /* w3c */ 
+ }
+
+ .name-ava{
+    position: fixed;
+    top: 0vh;
+    font-family: 'Cabin Condensed';
+    align-items: center;
+    justify-content: flex-end;
+    text-align: end;
+}
+.name{
+    color: #fff;
+    font-size: 9vh;
+    text-transform: uppercase;
+    height: 25vh;   
+    background: rgba(86,84,82,0.8);
+    margin-bottom: 2px; 
+    width: 1024px;
+    
+}
+address{
+    font-size: 4vh;
+    height: 10vh;
+    background: rgba(255,209,3,0.8)
+}
+.ava{
+    position: absolute;
+    top: 5vh;
+    left: 10vh;
+    border-radius: 5px;
+    width: 15vh;
+    height: 15vh;
+}
+.first{
+    padding-top: 38vh;
+}
+section{
+    display: flex;
+    flex-direction: row;  
+}
+.left-block{
+    background: rgba(54,54,54,0.7);
+    border-right: 2px solid #e3b71b;
+    flex: 29.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section:nth-child(odd){
+    background: rgba(200,200,200,0.4);
+}
+section:nth-child(even){
+    background: rgba(181,180,180,0.4);
+}
+.content-block{  
+    flex: 70.5%;
+    
+}
+h2{
+    font-family: 'Cabin Condensed';
+    font-weight: 800;
+    color: #ffcd05;
+    font-size: 2.1rem;
+}
+article *{
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+}
+article,a{
+    font-family: 'Cabin Condensed';
+    font-weight: 400;
+    color: #fff;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    letter-spacing: -0.5px;
+}
+h3{
+    flex: 1;
+    font-family: 'Cabin Condensed';
+    font-weight: 500;
+    color: #575757;
+    font-size: 1.6rem;
+}
+.link{
+    flex:1;
+}
+.contact-block>ul{
+    display: flex;
+    flex-direction: column;
+}
+.educate-block{
+    display: flex;
+    flex-direction: column;
+ 
+}
+.date-block{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    align-items: center;
+    justify-items: center;
+}
+.date-block>li:nth-child(1){
+    flex: 1;
+}
+.date-block>li:nth-child(2){
+    flex: 2;
+}
+.english-block{
+    display: flex;
+    flex-direction: column;
+}
+
