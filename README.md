@@ -25,9 +25,9 @@
 |   |[PHP + Bootstrap](https://github.com/igralex1/adminkaPHPbootstrap)|
 |6  |*Experience*|
 |   |Practice in IT STEP ACADEMY and my links on GITHUB|
-|7  |Education (РІ С‚.С‡. РєСѓСЂСЃС‹, СЃРµРјРёРЅР°СЂС‹, Р»РµРєС†РёРё, РѕРЅР»Р°Р№РЅ-РѕР±СѓС‡РµРЅРёРµ)|
+|7  |Education (в т.ч. курсы, семинары, лекции, онлайн-обучение)|
 |2009 - 2014   |Belarusian State University of Informatics and Radioelectronics|
-|2015 - at the end of 2107|IT STEP Computer Academy in the вЂњSoftware DevelopmentвЂќ direction|
+|2015 - at the end of 2107|IT STEP Computer Academy in the “Software Development” direction|
 |2019 - ... at the present time| EPAM Test Automation (TAT22)|
 |2019 - ... at the present time| EPAM JavaScript Development Q1-2019|
 |8  |English level|
